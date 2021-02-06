@@ -43,7 +43,7 @@ A collection of geospatial programs with commandline interface:
 
 ## Links
 
-- [GeoJSOn](https://github.com/tmcw/awesome-geojson)
+- [GeoJSON](https://github.com/tmcw/awesome-geojson)
 - [Vector Tiles](https://github.com/mapbox/awesome-vector-tiles#cli-utilities)
 - [Fiona/Rasterio Cheatsheet](https://github.com/sgillies/frs-cheat-sheet)
 - [Talk: Are be going back to Command Line GIS](https://media.ccc.de/v/bucharest-212-are-we-going-back-to-command-line-gis-)
