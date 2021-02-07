@@ -1,6 +1,6 @@
 # Geospatial Commandline Tools
 
-A collection of geospatial programs with commandline interface:
+A collection of geospatial programs with commandline interface. The starting point of the list was this [tweet](https://twitter.com/JakobMiksch/status/1358012117924904960) which contains many useful responses.
 
 - [GDAL/OGR](https://gdal.org/)
 - [PROJ](https://proj.org/index.html)
@@ -19,7 +19,7 @@ A collection of geospatial programs with commandline interface:
 - [GeoStyler](https://geostyler.org/)
 - [Orfeo ToolBox](https://www.orfeo-toolbox.org/)
 - [shp2pgsql / pgsql2shp / shpdump](https://manpages.ubuntu.com/manpages/bionic/man1/shpdump.1.html)
-- spatialite
+- [spatialite](https://www.gaia-gis.it/fossil/spatialite-tools/index)
 - topojson
 - geojsonhint
 - carto
@@ -39,6 +39,15 @@ A collection of geospatial programs with commandline interface:
 - d3-geo
 - ndjson
 - [go-spatial](https://github.com/jblindsay/go-spatial)
+- [GMT](https://www.generic-mapping-tools.org/)
+- Mapnik
+- TauDEM
+- Mapproxy
+- T-Rex
+- Cesium Terrain Builder
+- MDAL
+- [tippecanoe](https://github.com/mapbox/tippecanoe)
+- [LibTiff](http://www.libtiff.org/man/tiffsplit.1.html)
 
 
 ## Links
