@@ -52,6 +52,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [LibTiff](http://www.libtiff.org/man/tiffsplit.1.html)
 - [GeoWave](https://www.osgeo.org/projects/geowave/)
 - [Apache Sedona](https://sedona.apache.org/)
+- [PkTools](http://pktools.nongnu.org/html/index.html)
 
 
 ## Links
