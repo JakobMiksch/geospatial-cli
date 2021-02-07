@@ -51,10 +51,12 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [tippecanoe](https://github.com/mapbox/tippecanoe)
 - [LibTiff](http://www.libtiff.org/man/tiffsplit.1.html)
 - [GeoWave](https://www.osgeo.org/projects/geowave/)
+- [Apache Sedona](https://sedona.apache.org/)
 
 
 ## Links
 
+- [Command-Line Cartography - Blog Post Series of Mike Bostock](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c#06f4)
 - [GeoJSON](https://github.com/tmcw/awesome-geojson)
 - [Vector Tiles](https://github.com/mapbox/awesome-vector-tiles#cli-utilities)
 - [Fiona/Rasterio Cheatsheet](https://github.com/sgillies/frs-cheat-sheet)
