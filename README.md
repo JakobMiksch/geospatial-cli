@@ -48,6 +48,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 - MDAL
 - [tippecanoe](https://github.com/mapbox/tippecanoe)
 - [LibTiff](http://www.libtiff.org/man/tiffsplit.1.html)
+- [GeoWave](https://www.osgeo.org/projects/geowave/)
 
 
 ## Links
