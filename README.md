@@ -53,6 +53,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [GeoWave](https://www.osgeo.org/projects/geowave/)
 - [Apache Sedona](https://sedona.apache.org/)
 - [PkTools](http://pktools.nongnu.org/html/index.html)
+- [geojson-merge](https://github.com/mapbox/geojson-merge)
 
 
 ## Links
