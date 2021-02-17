@@ -54,6 +54,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [Apache Sedona](https://sedona.apache.org/)
 - [PkTools](http://pktools.nongnu.org/html/index.html)
 - [geojson-merge](https://github.com/mapbox/geojson-merge)
+- [felicette](https://github.com/plant99/felicette) - Download satellite images 
 
 
 ## Links
