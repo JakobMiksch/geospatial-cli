@@ -55,6 +55,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [PkTools](http://pktools.nongnu.org/html/index.html)
 - [geojson-merge](https://github.com/mapbox/geojson-merge)
 - [felicette](https://github.com/plant99/felicette) - Download satellite images 
+- [valhalla](https://github.com/valhalla/valhalla) - Routing Engine
 
 
 ## Links
