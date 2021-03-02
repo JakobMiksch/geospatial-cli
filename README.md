@@ -4,18 +4,19 @@
 
 A collection of geospatial programs with commandline interface. The starting point of the list was this [tweet](https://twitter.com/JakobMiksch/status/1358012117924904960) which contains many useful responses.
 
-- [GDAL/OGR](https://gdal.org/)
-- [PROJ](https://proj.org/index.html)
-- [GEOS](https://git.osgeo.org/gitea/geos/geos/src/branch/master/util/geosop/README.md)
-- [Fiona](https://github.com/Toblerity/Fiona/blob/master/docs/cli.rst)
-- [Rasterio](https://rasterio.readthedocs.io/en/latest/cli.html)
-- [Mapshaper](https://github.com/mbloch/mapshaper)
-- [geojsonio](https://github.com/mapbox/geojsonio-cli)
-- [QGIS/qgis_process](https://docs.qgis.org/3.16/en/docs/user_manual/processing/standalone.html)
-- [GRASS](https://grass.osgeo.org/grass78/manuals/grass7.html)
-- [SAGA GIS](http://www.saga-gis.org/en/index.html)
-- [Whitebox Tools](https://github.com/jblindsay/whitebox-tools)
-- [osmium](https://osmcode.org/osmium-tool/)
+- [GDAL/OGR](https://gdal.org/) - Powerful tools for conversion and processing of most geospatial formats.
+- [PROJ](https://proj.org/index.html) - Converts coordinate reference systems.
+- [GEOS](https://git.osgeo.org/gitea/geos/geos/src/branch/master/util/geosop/README.md) - Performs geometric operations. 
+- [Fiona](https://github.com/Toblerity/Fiona/blob/master/docs/cli.rst) - Process vector data. 
+- [Rasterio](https://rasterio.readthedocs.io/en/latest/cli.html) - Process raster data.
+- [Mapshaper](https://github.com/mbloch/mapshaper) - Convert between Shapefile, GeoJSON, TopoJSON and CSV.
+- [geojsonio](https://github.com/mapbox/geojsonio-cli) - Display GeoJSON files in the browser.
+- [wellknown](https://github.com/mapbox/wellknown) - Handle WKT (well known text) geometries.
+- [QGIS/qgis_process](https://docs.qgis.org/3.16/en/docs/user_manual/processing/standalone.html) - Interface for accessing QGIS processing tools.
+- [GRASS](https://grass.osgeo.org/grass78/manuals/grass7.html) - Execute GRASS algorithms.
+- [SAGA GIS](http://www.saga-gis.org/en/index.html) - Execute SAGA GIS algorithms.
+- [Whitebox Tools](https://github.com/jblindsay/whitebox-tools) - Execute Whitebox Tools algorithms.
+- [osmium](https://osmcode.org/osmium-tool/) - Powertool for any type of OpenStreeMap data processing.
 - [osm2pgsql](https://osm2pgsql.org/)
 - [Imposm](https://imposm.org/)
 - [GeoStyler](https://geostyler.org/)
@@ -58,6 +59,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [felicette](https://github.com/plant99/felicette) - Download satellite images. 
 - [valhalla](https://github.com/valhalla/valhalla) - Routing Engine.
 - [mbgl-renderer](https://github.com/consbio/mbgl-renderer)
+- [osmtogeojson](https://github.com/tyrasd/osmtogeojson) - Convert OpenStreetMap XML to GeoJSON.
 
 ## Links
 
