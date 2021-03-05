@@ -17,27 +17,26 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [SAGA GIS](http://www.saga-gis.org/en/index.html) - Execute SAGA GIS algorithms.
 - [Whitebox Tools](https://github.com/jblindsay/whitebox-tools) - Execute Whitebox Tools algorithms.
 - [osmium](https://osmcode.org/osmium-tool/) - Powertool for any type of OpenStreeMap data processing.
-- [osm2pgsql](https://osm2pgsql.org/)
-- [Imposm](https://imposm.org/)
-- [GeoStyler](https://geostyler.org/)
-- [Orfeo ToolBox](https://www.orfeo-toolbox.org/)
-- [shp2pgsql / pgsql2shp / shpdump](https://manpages.ubuntu.com/manpages/bionic/man1/shpdump.1.html)
-- [spatialite](https://www.gaia-gis.it/fossil/spatialite-tools/index)
-- [topojson](https://github.com/topojson/topojson)
+- [osm2pgsql](https://osm2pgsql.org/) - Load OpenStreetMap data in a PostgreSQL/PostGIS Database. Written in C++.
+- [Imposm](https://imposm.org/) - Load OpenStreetMap data in a PostgreSQL/PostGIS Database. Written in Go.
+- [GeoStyler](https://geostyler.org/) - Conversion from and to various geospatal style formats.
+- [Orfeo ToolBox](https://www.orfeo-toolbox.org/) A toolbox for remote sensing.
+- [shp2pgsql / pgsql2shp / shpdump](https://manpages.ubuntu.com/manpages/bionic/man1/shpdump.1.html) Shapefile related tools.
+- [spatialite](https://www.gaia-gis.it/fossil/spatialite-tools/index) - A SQLite bases database for spatial data.
+- [topojson](https://github.com/topojson/topojson) - Handling the TopoJSON format.
 - [geojsonhint](https://github.com/mapbox/geojsonhint) - Validate GeoJSON files.
 - [carto](https://cartocss.readthedocs.io/en/latest/installation_usage.html) - Edit CartCSS styles.
-- [pygeometa](https://geopython.github.io/pygeometa/)
+- [pygeometa](https://geopython.github.io/pygeometa/) - Create geospatial metadata.
 - [osmctools](https://gitlab.com/osm-c-tools/osmctools) - Convert, filter and update OpenStreetMap data files.
   - `osmconvert`
   - `osmfilter`
   - `osmupdate`
 - [MDAL](https://www.mdal.xyz/) - Mesh Data Abstraction Library.  
 - [PDAL](https://pdal.io/) - Point Data Abstraction Library.
-- [LAStools](https://rapidlasso.com/lastools/)
-- [OPALS](https://opals.geo.tuwien.ac.at/html/stable/usr_getting_started.html)
-- CloudCompare
-- [teqc](https://www.unavco.org/software/data-processing/teqc/tutorial/tutorial.html)
-- [OpenDroneMap](https://github.com/OpenDroneMap/ODM)
+- [LAStools](https://rapidlasso.com/lastools/) - Tools for processing point clouds.
+- [OPALS](https://opals.geo.tuwien.ac.at/html/stable/usr_getting_started.html) - Processing of airborn laser scanning.
+- [CloudCompare](https://www.cloudcompare.org/doc/wiki/index.php?title=Command_line_mode) - Tools for processing point clouds.
+- [OpenDroneMap](https://github.com/OpenDroneMap/ODM) - Process drone imagery.
 - [PCRaster](https://pcraster.geo.uu.nl/)
 - [BareMaps](https://github.com/baremaps/baremaps)
 - [libtiff](http://www.libtiff.org/man/tiffsplit.1.html)) - TIFF Library and Utilities.
