@@ -59,6 +59,8 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [valhalla](https://github.com/valhalla/valhalla) - Routing Engine.
 - [mbgl-renderer](https://github.com/consbio/mbgl-renderer)
 - [osmtogeojson](https://github.com/tyrasd/osmtogeojson) - Convert OpenStreetMap XML to GeoJSON.
+- [sat-search](https://github.com/sat-utils/sat-search) - Access SpatioTemporal Asset Catalog (STAC) API.
+- [eodag](https://github.com/CS-SI/eodag) - Earth Observation Data Access Gateway.
 
 ## Links
 
