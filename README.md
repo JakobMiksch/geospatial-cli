@@ -61,6 +61,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [osmtogeojson](https://github.com/tyrasd/osmtogeojson) - Convert OpenStreetMap XML to GeoJSON.
 - [sat-search](https://github.com/sat-utils/sat-search) - Access SpatioTemporal Asset Catalog (STAC) API.
 - [eodag](https://github.com/CS-SI/eodag) - Earth Observation Data Access Gateway.
+- [micmac](https://micmac.ensg.eu/index.php/MicMac_tools) - Photogrammetric suite.
 
 ## Links
 
