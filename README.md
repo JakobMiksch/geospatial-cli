@@ -79,7 +79,9 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [Mapproxy](https://mapproxy.org/) - Proxy for geospatial data.
 - [valhalla](https://github.com/valhalla/valhalla) - Routing Engine.
 - [PCRaster](https://pcraster.geo.uu.nl/) - Software for environmental modelling.
-- [Cesium Terrain Builder](https://github.com/geo-data/cesium-terrain-builder) - Create terrain tiles for use in the Cesium JavaScript library .
+- [Cesium Terrain Builder](https://github.com/geo-data/cesium-terrain-builder) - Create terrain tiles for use in the Cesium JavaScript library.
+- [geodiff](https://github.com/lutraconsulting/geodiff) - Handle differences in geospatial data.
+- [GeoGig](http://geogig.org/) - Geospatial verison control.
 
 ## Links
 
