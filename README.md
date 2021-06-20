@@ -14,7 +14,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 
 ## Vector
 
-- [Fiona](https://github.com/Toblerity/Fiona/blob/master/docs/cli.rst) - Process vector data. 
+- [Fiona](https://github.com/Toblerity/Fiona/blob/master/docs/cli.rst) - Process vector data.
 - [shp2pgsql / pgsql2shp / shpdump](https://manpages.ubuntu.com/manpages/bionic/man1/shpdump.1.html) Shapefile related tools.
 - [spatialite](https://www.gaia-gis.it/fossil/spatialite-tools/index) - A SQLite bases database for spatial data.
 - [topojson](https://github.com/topojson/topojson) - Handling the TopoJSON format.
@@ -33,8 +33,8 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [libtiff](http://www.libtiff.org/man/tiffsplit.1.html) - TIFF Library and Utilities.
 - [Orfeo ToolBox](https://www.orfeo-toolbox.org/) A toolbox for remote sensing.
 - [OpenDroneMap](https://github.com/OpenDroneMap/ODM) - Process drone imagery.
-- [TauDEM](https://hydrology.usu.edu/taudem/taudem5/index.html) - a suite of Digital Elevation Model (DEM) tools. 
-- [felicette](https://github.com/plant99/felicette) - Download satellite images. 
+- [TauDEM](https://hydrology.usu.edu/taudem/taudem5/index.html) - a suite of Digital Elevation Model (DEM) tools.
+- [felicette](https://github.com/plant99/felicette) - Download satellite images.
 - [eodag](https://github.com/CS-SI/eodag) - Earth Observation Data Access Gateway.
 - [micmac](https://micmac.ensg.eu/index.php/MicMac_tools) - Photogrammetric suite.
 - [sat-search](https://github.com/sat-utils/sat-search) - Access SpatioTemporal Asset Catalog (STAC) API.
@@ -73,15 +73,16 @@ A collection of geospatial programs with commandline interface. The starting poi
 ## Other
 
 - [PROJ](https://proj.org/index.html) - Converts coordinate reference systems.
-- [GEOS](https://git.osgeo.org/gitea/geos/geos/src/branch/master/util/geosop/README.md) - Performs geometric operations. 
+- [GEOS](https://git.osgeo.org/gitea/geos/geos/src/branch/master/util/geosop/README.md) - Performs geometric operations.
 - [pygeometa](https://geopython.github.io/pygeometa/) - Create geospatial metadata.
-- [MDAL](https://www.mdal.xyz/) - Mesh Data Abstraction Library.  
+- [MDAL](https://www.mdal.xyz/) - Mesh Data Abstraction Library.
 - [Mapproxy](https://mapproxy.org/) - Proxy for geospatial data.
 - [valhalla](https://github.com/valhalla/valhalla) - Routing Engine.
 - [PCRaster](https://pcraster.geo.uu.nl/) - Software for environmental modelling.
 - [Cesium Terrain Builder](https://github.com/geo-data/cesium-terrain-builder) - Create terrain tiles for use in the Cesium JavaScript library.
 - [geodiff](https://github.com/lutraconsulting/geodiff) - Handle differences in geospatial data.
-- [GeoGig](http://geogig.org/) - Geospatial verison control.
+- [GeoGig](http://geogig.org/) - Geospatial version control.
+- [Kart](https://kartproject.org) - Geospatial version control.
 
 ## Links
 
