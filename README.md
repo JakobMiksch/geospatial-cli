@@ -83,6 +83,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [geodiff](https://github.com/lutraconsulting/geodiff) - Handle differences in geospatial data.
 - [GeoGig](http://geogig.org/) - Geospatial version control.
 - [Kart](https://kartproject.org) - Geospatial version control.
+- [mergin](https://github.com/lutraconsulting/mergin-py-client) - Python client module for access to [Mergin](https://public.cloudmergin.com) and a command-line tool for access to data stored in Mergin.
 
 ## Links
 
