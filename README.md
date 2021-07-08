@@ -59,9 +59,6 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [osmtogeojson](https://github.com/tyrasd/osmtogeojson) - Convert OpenStreetMap XML to GeoJSON.
 - [Imposm](https://imposm.org/) - Load OpenStreetMap data in a PostgreSQL/PostGIS Database. Written in Go.
 - [osmctools](https://gitlab.com/osm-c-tools/osmctools) - Convert, filter and update OpenStreetMap data files.
-  - `osmconvert`
-  - `osmfilter`
-  - `osmupdate`
 
 ## Point Cloud
 
