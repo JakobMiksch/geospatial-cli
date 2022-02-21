@@ -4,7 +4,7 @@
 
 A collection of geospatial programs with commandline interface. The starting point of the list was this [tweet](https://twitter.com/JakobMiksch/status/1358012117924904960) which contains many useful responses.
 
-## Generic Vector&Raster
+## Generic Vector & Raster
 
 - [GDAL/OGR](https://gdal.org/) - Powerful tools for conversion and processing of most geospatial formats.
 - [QGIS/qgis_process](https://docs.qgis.org/3.16/en/docs/user_manual/processing/standalone.html) - Interface for accessing QGIS processing tools.
@@ -40,6 +40,8 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [sat-search](https://github.com/sat-utils/sat-search) - Access SpatioTemporal Asset Catalog (STAC) API.
 - [PkTools](http://pktools.nongnu.org/html/index.html) - Utilities for image processing.
 - [go-spatial](https://github.com/jblindsay/go-spatial) - Manipulation of geospatial data.
+- [stactools](https://github.com/stac-utils/stactools) - Command line utility and Python library for STAC.
+- [gdal-exprtk](https://github.com/mmomtchev/gdal-exprtk) - GDAL-based raster calculation with JavaScript and ExprTk expresssions.
 
 ## Rendering and Styling
 
@@ -51,6 +53,10 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [tippecanoe](https://github.com/mapbox/tippecanoe) - Build vector tiles.
 - [mbgl-renderer](https://github.com/consbio/mbgl-renderer) - Static Renderer for MapboxGL.
 - [BareMaps](https://github.com/baremaps/baremaps) - Creation of custom vector tiles.
+- [Mapproxy](https://mapproxy.org/) - Proxy for geospatial data.
+- [pygeoapi](https://pygeoapi.io/) - A Python server implementation of the OGC API suite of standards.
+- [pg_tileserv](https://github.com/CrunchyData/pg_tileserv) - A PostGIS-only tile server in Go.
+- [pg_featureserv](https://github.com/CrunchyData/pg_featureserv) - Geospatial Feature Server for PostGIS in Go.
 
 ## OpenStreetMap
 
@@ -59,6 +65,8 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [osmtogeojson](https://github.com/tyrasd/osmtogeojson) - Convert OpenStreetMap XML to GeoJSON.
 - [Imposm](https://imposm.org/) - Load OpenStreetMap data in a PostgreSQL/PostGIS Database. Written in Go.
 - [osmctools](https://gitlab.com/osm-c-tools/osmctools) - Convert, filter and update OpenStreetMap data files.
+- [osm-tags-transform](https://github.com/osmcode/osm-tags-transform) - Transform tags in OSM files using Lua code.
+- [mapsplit](https://github.com/simonpoole/mapsplit) - Split OSM data in to a portable tiled format.
 
 ## Point Cloud
 
@@ -70,10 +78,10 @@ A collection of geospatial programs with commandline interface. The starting poi
 ## Other
 
 - [PROJ](https://proj.org/index.html) - Converts coordinate reference systems.
+- [pyproj](https://pyproj4.github.io/pyproj/stable/cli.html) - Python interface to PROJ.
 - [GEOS](https://git.osgeo.org/gitea/geos/geos/src/branch/master/util/geosop/README.md) - Performs geometric operations.
 - [pygeometa](https://geopython.github.io/pygeometa/) - Create geospatial metadata.
 - [MDAL](https://www.mdal.xyz/) - Mesh Data Abstraction Library.
-- [Mapproxy](https://mapproxy.org/) - Proxy for geospatial data.
 - [valhalla](https://github.com/valhalla/valhalla) - Routing Engine.
 - [PCRaster](https://pcraster.geo.uu.nl/) - Software for environmental modelling.
 - [Cesium Terrain Builder](https://github.com/geo-data/cesium-terrain-builder) - Create terrain tiles for use in the Cesium JavaScript library.
