@@ -42,12 +42,13 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [go-spatial](https://github.com/jblindsay/go-spatial) - Manipulation of geospatial data.
 - [stactools](https://github.com/stac-utils/stactools) - Command line utility and Python library for STAC.
 - [gdal-exprtk](https://github.com/mmomtchev/gdal-exprtk) - GDAL-based raster calculation with JavaScript and ExprTk expresssions.
+- [cogger](https://github.com/airbusgeo/cogger) - GeoTIFF to COG converter.
 
 ## Rendering and Styling
 
 - [GMT](https://www.generic-mapping-tools.org/) - Display geospatial data.
 - [mapnik](https://mapnik.org/) - Mapping Toolkit.
-- [GeoStyler](https://geostyler.org/) - Conversion from and to various geospatal style formats.
+- [GeoStyler](https://geostyler.org/) - Conversion from and to various geospatial style formats.
 - [carto](https://cartocss.readthedocs.io/en/latest/installation_usage.html) - Edit CartCSS styles.
 - [t-Rex](https://t-rex.tileserver.ch) - Creation and Serving of vector tiles.
 - [tippecanoe](https://github.com/mapbox/tippecanoe) - Build vector tiles.
@@ -60,8 +61,10 @@ A collection of geospatial programs with commandline interface. The starting poi
 
 ## OpenStreetMap
 
-- [osmium](https://osmcode.org/osmium-tool/) - Powertool for any type of OpenStreeMap data processing.
+- [osmium](https://osmcode.org/osmium-tool/) - Powertool for any type of OpenStreetMap data processing.
+. [pyosmium](https://docs.osmcode.org/pyosmium/latest/tools.html) - Utilities for updating OSM files.
 - [osm2pgsql](https://osm2pgsql.org/) - Load OpenStreetMap data in a PostgreSQL/PostGIS Database. Written in C++.
+- [osmprj](https://github.com/travishathaway/osmprj) - Import OSM data to Postgres and create reports.
 - [osmtogeojson](https://github.com/tyrasd/osmtogeojson) - Convert OpenStreetMap XML to GeoJSON.
 - [Imposm](https://imposm.org/) - Load OpenStreetMap data in a PostgreSQL/PostGIS Database. Written in Go.
 - [osmctools](https://gitlab.com/osm-c-tools/osmctools) - Convert, filter and update OpenStreetMap data files.
