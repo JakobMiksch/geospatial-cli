@@ -47,7 +47,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 
 - [GMT](https://www.generic-mapping-tools.org/) - Display geospatial data.
 - [mapnik](https://mapnik.org/) - Mapping Toolkit.
-- [GeoStyler](https://geostyler.org/) - Conversion from and to various geospatal style formats.
+- [GeoStyler](https://geostyler.org/) - Conversion from and to various geospatial style formats.
 - [carto](https://cartocss.readthedocs.io/en/latest/installation_usage.html) - Edit CartCSS styles.
 - [t-Rex](https://t-rex.tileserver.ch) - Creation and Serving of vector tiles.
 - [tippecanoe](https://github.com/mapbox/tippecanoe) - Build vector tiles.
@@ -60,7 +60,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 
 ## OpenStreetMap
 
-- [osmium](https://osmcode.org/osmium-tool/) - Powertool for any type of OpenStreeMap data processing.
+- [osmium](https://osmcode.org/osmium-tool/) - Powertool for any type of OpenStreetMap data processing.
 - [osm2pgsql](https://osm2pgsql.org/) - Load OpenStreetMap data in a PostgreSQL/PostGIS Database. Written in C++.
 - [osmtogeojson](https://github.com/tyrasd/osmtogeojson) - Convert OpenStreetMap XML to GeoJSON.
 - [Imposm](https://imposm.org/) - Load OpenStreetMap data in a PostgreSQL/PostGIS Database. Written in Go.
