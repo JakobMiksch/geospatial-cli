@@ -82,7 +82,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 
 - [PROJ](https://proj.org/index.html) - Converts coordinate reference systems.
 - [pyproj](https://pyproj4.github.io/pyproj/stable/cli.html) - Python interface to PROJ.
-- [GEOS](https://git.osgeo.org/gitea/geos/geos/src/branch/master/util/geosop/README.md) - Performs geometric operations.
+- [GEOS](https://github.com/libgeos/geos/blob/main/util/geosop/README.md) - Performs geometric operations.
 - [pygeometa](https://geopython.github.io/pygeometa/) - Create geospatial metadata.
 - [MDAL](https://www.mdal.xyz/) - Mesh Data Abstraction Library.
 - [valhalla](https://github.com/valhalla/valhalla) - Routing Engine.
