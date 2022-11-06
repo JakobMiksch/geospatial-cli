@@ -36,7 +36,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [TauDEM](https://hydrology.usu.edu/taudem/taudem5/index.html) - a suite of Digital Elevation Model (DEM) tools.
 - [felicette](https://github.com/plant99/felicette) - Download satellite images.
 - [eodag](https://github.com/CS-SI/eodag) - Earth Observation Data Access Gateway.
-- [micmac](https://micmac.ensg.eu) - Photogrammetric suite.
+- [micmac](https://micmac.ensg.eu) - Photogrammetric suite. <!-- markdown-link-check-disable-line -->
 - [sat-search](https://github.com/sat-utils/sat-search) - Access SpatioTemporal Asset Catalog (STAC) API.
 - [PkTools](http://pktools.nongnu.org/html/index.html) - Utilities for image processing.
 - [go-spatial](https://github.com/jblindsay/go-spatial) - Manipulation of geospatial data.
