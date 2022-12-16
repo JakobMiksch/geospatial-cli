@@ -26,6 +26,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [Mapshaper](https://github.com/mbloch/mapshaper) - Convert between Shapefile, GeoJSON, TopoJSON and CSV.
 - [geojsonio](https://github.com/mapbox/geojsonio-cli) - Display GeoJSON files in the browser.
 - [wellknown](https://github.com/mapbox/wellknown) - Handle WKT (well known text) geometries.
+- [ogr2postgis](https://github.com/mapcentia/ogr2postgis) - Load vector data to PostGIS.
 
 ## Raster & Remote Sensing
 
