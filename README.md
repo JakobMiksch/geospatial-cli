@@ -64,7 +64,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 ## OpenStreetMap
 
 - [osmium](https://osmcode.org/osmium-tool/) - Powertool for any type of OpenStreetMap data processing.
-. [pyosmium](https://docs.osmcode.org/pyosmium/latest/tools.html) - Utilities for updating OSM files.
+- [pyosmium](https://docs.osmcode.org/pyosmium/latest/tools.html) - Utilities for updating OSM files.
 - [osm2pgsql](https://osm2pgsql.org/) - Load OpenStreetMap data in a PostgreSQL/PostGIS Database. Written in C++.
 - [osmprj](https://github.com/travishathaway/osmprj) - Import OSM data to Postgres and create reports.
 - [osmtogeojson](https://github.com/tyrasd/osmtogeojson) - Convert OpenStreetMap XML to GeoJSON.
