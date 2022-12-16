@@ -72,6 +72,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [osm-tags-transform](https://github.com/osmcode/osm-tags-transform) - Transform tags in OSM files using Lua code.
 - [mapsplit](https://github.com/simonpoole/mapsplit) - Split OSM data in to a portable tiled format.
 - [99boundaries](https://github.com/TimMcCauley/nintynine-boundaries) - Generate administrative boundaries from OpenStreetMap.
+- [gol](https://github.com/clarisma/gol-tool) - Build an OpenStreetMap database and perform queries.
 
 ## Point Cloud
 
