@@ -93,6 +93,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [GeoGig](http://geogig.org/) - Geospatial version control.
 - [Kart](https://kartproject.org) - Geospatial version control.
 - [mergin](https://github.com/lutraconsulting/mergin-py-client) - Python client module for access to [Mergin](https://cloudmergin.com) and a command-line tool for access to data stored in Mergin.
+- [wetterdienst](https://wetterdienst.readthedocs.io/en/latest/usage/cli.html) - Retrieve weather data from multiple sources. 
 
 ## Links
 
