@@ -26,6 +26,8 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [Mapshaper](https://github.com/mbloch/mapshaper) - Convert between Shapefile, GeoJSON, TopoJSON and CSV.
 - [geojsonio](https://github.com/mapbox/geojsonio-cli) - Display GeoJSON files in the browser.
 - [wellknown](https://github.com/mapbox/wellknown) - Handle WKT (well known text) geometries.
+- [ogr2postgis](https://github.com/mapcentia/ogr2postgis) - Load vector data to PostGIS.
+- [gpq](https://github.com/tschaub/gpq) - Utility for working with GeoParquet.
 
 ## Raster & Remote Sensing
 
@@ -70,6 +72,8 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [osmctools](https://gitlab.com/osm-c-tools/osmctools) - Convert, filter and update OpenStreetMap data files.
 - [osm-tags-transform](https://github.com/osmcode/osm-tags-transform) - Transform tags in OSM files using Lua code.
 - [mapsplit](https://github.com/simonpoole/mapsplit) - Split OSM data in to a portable tiled format.
+- [99boundaries](https://github.com/TimMcCauley/nintynine-boundaries) - Generate administrative boundaries from OpenStreetMap.
+- [gol](https://github.com/clarisma/gol-tool) - Build an OpenStreetMap database and perform queries.
 
 ## Point Cloud
 
@@ -92,6 +96,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [GeoGig](http://geogig.org/) - Geospatial version control.
 - [Kart](https://kartproject.org) - Geospatial version control.
 - [mergin](https://github.com/lutraconsulting/mergin-py-client) - Python client module for access to [Mergin](https://cloudmergin.com) and a command-line tool for access to data stored in Mergin.
+- [wetterdienst](https://wetterdienst.readthedocs.io/en/latest/usage/cli.html) - Retrieve weather data from multiple sources. 
 
 ## Links
 
