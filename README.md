@@ -45,6 +45,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [stactools](https://github.com/stac-utils/stactools) - Command line utility and Python library for STAC.
 - [gdal-exprtk](https://github.com/mmomtchev/gdal-exprtk) - GDAL-based raster calculation with JavaScript and ExprTk expresssions.
 - [cogger](https://github.com/airbusgeo/cogger) - GeoTIFF to COG converter.
+- [geeup](https://github.com/samapriya/geeup) - Simple tool for Google Earth Engine Uploads.
 
 ## Rendering and Styling
 
