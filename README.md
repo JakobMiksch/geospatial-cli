@@ -82,7 +82,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [PDAL](https://pdal.io/) - Point Data Abstraction Library.
 - [CloudCompare](https://www.cloudcompare.org/doc/wiki/index.php?title=Command_line_mode) - Tools for processing point clouds.
 - [OPALS](https://opals.geo.tuwien.ac.at/html/stable/usr_getting_started.html) - Processing of airborn laser scanning.
-- [LAStools](https://rapidlasso.com/lastools/) - Tools for processing point clouds.
+- [LAStools](https://github.com/LAStools/LAStools) - Tools for processing point clouds.
 
 ## Other
 
