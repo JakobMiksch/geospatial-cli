@@ -2,7 +2,7 @@
 
 ![cover image geospatial commandline tools](cover_image.jpg)
 
-A collection of geospatial programs with commandline interface. The starting point of the list was this [tweet](https://twitter.com/JakobMiksch/status/1358012117924904960) which contains many useful responses.
+A collection of geospatial programs with commandline interface. The starting point of the list was this [tweet](https://twitter.com/JakobMiksch/status/1358012117924904960) which contains many useful responses.  <!-- markdown-link-check-disable-line -->
 
 ## Generic Vector & Raster
 
