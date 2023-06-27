@@ -17,7 +17,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 ## Vector
 
 - [Fiona](https://github.com/Toblerity/Fiona/blob/master/docs/cli.rst) - Process vector data.
-- [shp2pgsql / pgsql2shp / shpdump](https://manpages.ubuntu.com/manpages/bionic/man1/shpdump.1.html) Shapefile related tools.
+- [shp2pgsql / pgsql2shp / shpdump](http://shapelib.maptools.org/shapelib-tools.html) Shapefile related tools.
 - [spatialite](https://www.gaia-gis.it/fossil/spatialite-tools/index) - A SQLite bases database for spatial data.
 - [topojson](https://github.com/topojson/topojson) - Handling the TopoJSON format.
 - [geojsonhint](https://github.com/mapbox/geojsonhint) - Validate GeoJSON files.
