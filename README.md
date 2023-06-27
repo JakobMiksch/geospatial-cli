@@ -1,5 +1,7 @@
 # Geospatial Commandline Tools
 
+[![Check Markdown links](https://github.com/JakobMiksch/geospatial-cli/actions/workflows/check-links.yml/badge.svg)](https://github.com/JakobMiksch/geospatial-cli/actions/workflows/check-links.yml)
+
 ![cover image geospatial commandline tools](cover_image.jpg)
 
 A collection of geospatial programs with commandline interface. The starting point of the list was this [tweet](https://twitter.com/JakobMiksch/status/1358012117924904960) which contains many useful responses.  <!-- markdown-link-check-disable-line -->
