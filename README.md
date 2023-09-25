@@ -10,7 +10,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 
 - [GDAL/OGR](https://gdal.org/) - Powerful tools for conversion and processing of most geospatial formats.
 - [QGIS/qgis_process](https://docs.qgis.org/3.16/en/docs/user_manual/processing/standalone.html) - Interface for accessing QGIS processing tools.
-- [GRASS](https://grass.osgeo.org/grass78/manuals/grass7.html) - Execute GRASS algorithms.
+- [GRASS](https://grass.osgeo.org/grass-stable/manuals/grass.html) - Execute GRASS GIS algorithms.
 - [SAGA GIS](http://www.saga-gis.org/en/index.html) - Execute SAGA GIS algorithms.
 - [Whitebox Tools](https://github.com/jblindsay/whitebox-tools) - Execute geospatial algorithms.
 
