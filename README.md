@@ -53,7 +53,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [GMT](https://www.generic-mapping-tools.org/) - Display geospatial data.
 - [mapnik](https://mapnik.org/) - Mapping Toolkit.
 - [GeoStyler](https://geostyler.org/) - Conversion from and to various geospatial style formats.
-- [carto](https://cartocss.readthedocs.io/en/latest/installation_usage.html) - Edit CartCSS styles.
+- [carto](https://github.com/mapbox/carto) - Edit CartCSS styles.
 - [t-Rex](https://t-rex.tileserver.ch) - Creation and Serving of vector tiles.
 - [tippecanoe](https://github.com/mapbox/tippecanoe) - Build vector tiles.
 - [mbgl-renderer](https://github.com/consbio/mbgl-renderer) - Static Renderer for MapboxGL.
