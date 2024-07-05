@@ -76,6 +76,7 @@ A collection of geospatial programs with commandline interface. The starting poi
 - [mapsplit](https://github.com/simonpoole/mapsplit) - Split OSM data in to a portable tiled format.
 - [99boundaries](https://github.com/TimMcCauley/nintynine-boundaries) - Generate administrative boundaries from OpenStreetMap.
 - [gol](https://github.com/clarisma/gol-tool) - Build an OpenStreetMap database and perform queries.
+- [QuackOSM](https://github.com/kraina-ai/quackosm) - Download, filter and transform `*.osm.pbf` files into `GeoParquet` files using DuckDB.
 
 ## Point Cloud
 
